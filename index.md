@@ -6,6 +6,6 @@
 peso = int(input('Hola Ingrese su peso en kg porfavor'))
 estatura =float(input('Ingrese su estatura en m por favor'))
 imc = (peso)/(estatura**2)
-print('Su IMC es de: '+imc)
+print('Su IMC es de: '+ str(imc))
 
 ```
