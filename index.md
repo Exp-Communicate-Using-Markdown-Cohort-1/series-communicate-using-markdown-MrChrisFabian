@@ -1,4 +1,11 @@
 # <h1>Markdown homework :p
-## <h2> my image
+## <h2> my exercises
 ![Image of MinionOctoCat](https://octodex.github.com/images/minion.png)
+```
+peso = int(input('Hola Ingrese su peso en kg porfavor'))
+estatura =float(input('Ingrese su estatura en m por favor'))
+imc = (peso)/(estatura**2)
+print('Su IMC es de: '+ str(imc))
+
+```
 
