@@ -9,3 +9,7 @@ imc = (peso)/(estatura**2)
 print('Su IMC es de: '+ str(imc))
 
 ```
+# <h4> To do My friend 
+- [ ] Learn Webpage Desing
+- [x] Create my github account
+- [ ] Comprarme un Dinosaurio
