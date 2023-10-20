@@ -1,5 +1,5 @@
-# <h1>Markdown homework :p
-## <h2> my exercises
+# Markdown homework :p
+## my exercises
 ![Image of MinionOctoCat](https://octodex.github.com/images/minion.png)
 ```
 peso = int(input('Hola Ingrese su peso en kg porfavor'))
